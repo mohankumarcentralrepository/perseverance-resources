@@ -43,6 +43,6 @@
 </head>
 <body>
     <h1>Shiva Sai's</h1>
-    <h2>PERSEVERANCE SOFTWARE INSTITUTE</h2>
+    <h2>PERSEVERANCE software</h2>
 </body>     
 </html>
