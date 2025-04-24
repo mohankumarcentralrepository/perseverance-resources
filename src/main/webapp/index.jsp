@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Perseverance</title>
     <!-- Importing a nice modern font (Google Fonts) -->
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Montserrat:wght@500&display=swap" rel="stylesheet">
+    <link href="https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1200">
     <style>
         body {
  margin: 0;
