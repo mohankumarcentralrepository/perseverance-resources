@@ -14,10 +14,10 @@
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
-      height: 100vh; 
+    /*  height: 100vh; */
  height: 100%;
   width: 100%;
-<!-- margin: 0;
+/* <!-- margin: 0;
             padding: 0;
             background-color: #121212; /* Dark background */
             display: flex;
@@ -25,7 +25,7 @@
             justify-content: center;
             height: 100vh;
             font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            color: #ffffff; /* White text for better readability */ -->
+            color: #ffffff; /* White text for better readability */ --> */ -->
         }
 
         h1 {
