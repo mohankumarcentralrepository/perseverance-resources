@@ -8,7 +8,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Montserrat:wght@500&display=swap" rel="stylesheet">
     <style>
         body {
-            margin: 0;
+ margin: 0;
+      padding: 0;
+      background-image: url('https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8='); /
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 100vh;           
+<!-- margin: 0;
             padding: 0;
             background-color: #121212; /* Dark background */
             display: flex;
@@ -16,7 +23,7 @@
             justify-content: center;
             height: 100vh;
             font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            color: #ffffff; /* White text for better readability */
+            color: #ffffff; /* White text for better readability */ -->
         }
 
         h1 {
@@ -43,6 +50,6 @@
 </head>
 <body>
     <h1>Shiva Sai's</h1>
-    <h2>PERSEVERANCE software</h2>
+    <h2>MOHANKUMAR DEVELOPMENT SOFTWARE</h2>
 </body>     
 </html>
