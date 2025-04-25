@@ -2,7 +2,7 @@ trigger:
 - main
 pool:
   name: devopspipeline
-  demands: Agent.Name -equals YourAgentName
+  demands: Agent.Name -equals devopspipeline
 steps:
 - task: Maven@3
   inputs:
